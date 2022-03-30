@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    
+}
+#upper-div-image{
+    width: 200px;
+    border-radius: 50%;
+    border: 3px double violet;
+    margin: 34px;
+    
+}
+hr {
+   border: 1px double pink;
+}
+.upper-div{
+   
+    background: rgb(68, 68, 248);
+    
+}
+.container {
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: bisque;
+
+}
+
+
+.item {
+    width: 45%;
+    height: 80px;
+    margin-bottom: 3%;
+    background-color: rgba(0, 0, 255, 0.384);
+    margin-top: 35px;
+
+}
+#item1{
+    margin-left: 15px;
+}
+#item2{
+    margin-right: 15px;
+}
+#item3{
+    margin-left: 15px;
+}
+#item4{
+    margin-right: 15px;
+}
+.upper-div-link{
+    color: white;
+}
